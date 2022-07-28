@@ -40,5 +40,10 @@ color:black;
     .join-top{
         margin-top: -10%;
     }
-    
+    .company{
+        visibility:hidden;
+    }
+    .footer-top{
+        margin-top:-40%;
+    }
 }
